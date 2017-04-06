@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-plugin",
+  "version": "1.0.0",
+  "description": "some little bootstrap style web plugin which can be used to accelarate the development of page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zd1010150/bootstrap-plugin.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "plugin"
+  ],
+  "author": "kiwizhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zd1010150/bootstrap-plugin/issues"
+  },
+  "homepage": "https://github.com/zd1010150/bootstrap-plugin#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
